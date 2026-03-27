@@ -1,0 +1,5 @@
+{
+  "name": "Bracket Master",
+  "description": "A professional tournament bracket generator and manager for single-elimination events.",
+  "requestFramePermissions": []
+}
